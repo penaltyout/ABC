@@ -1,0 +1,15 @@
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\bin\Debug\VynilCollection.exe.config
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\bin\Debug\VynilCollection.exe
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\bin\Debug\VynilCollection.pdb
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\obj\Debug\VinylCollection.csprojResolveAssemblyReference.cache
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\obj\Debug\VynilCollection.exe
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\obj\Debug\VynilCollection.pdb
+C:\Users\SEBE\Desktop\Vynil (Sebastian)\VynilCollection\bin\Debug\VynilCollection.exe.config
+C:\Users\SEBE\Desktop\Vynil (Sebastian)\VynilCollection\obj\Debug\VynilCollection.exe
+C:\Users\SEBE\Desktop\Vynil (Sebastian)\VynilCollection\obj\Debug\VynilCollection.pdb
+C:\Users\SEBE\Desktop\Vynil (Sebastian)\VynilCollection\bin\Debug\VynilCollection.exe
+C:\Users\SEBE\Desktop\Vynil (Sebastian)\VynilCollection\bin\Debug\VynilCollection.pdb
+C:\Users\SEBE\Desktop\Vynil (Sebastian)\VynilCollection\obj\Debug\VinylCollection.csprojResolveAssemblyReference.cache
+C:\Users\SEBE\Desktop\ABC\Vynil (Sebastian)\VynilCollection\bin\Debug\VynilCollection.exe.config
+C:\Users\SEBE\Desktop\ABC\Vynil (Sebastian)\VynilCollection\obj\Debug\VynilCollection.exe
+C:\Users\SEBE\Desktop\ABC\Vynil (Sebastian)\VynilCollection\obj\Debug\VynilCollection.pdb

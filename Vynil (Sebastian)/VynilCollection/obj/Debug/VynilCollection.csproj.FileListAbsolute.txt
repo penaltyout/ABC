@@ -1,0 +1,6 @@
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\bin\Debug\VynilCollection.exe.config
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\bin\Debug\VynilCollection.exe
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\bin\Debug\VynilCollection.pdb
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\obj\Debug\VynilCollection.csprojResolveAssemblyReference.cache
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\obj\Debug\VynilCollection.exe
+c:\users\sebe\documents\visual studio 2015\Projects\VynilCollection\VynilCollection\obj\Debug\VynilCollection.pdb
